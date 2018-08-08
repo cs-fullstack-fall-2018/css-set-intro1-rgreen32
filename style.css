@@ -1,20 +1,25 @@
 p{
-    color: yellow;
-    background-color: gray;
+    color: gray;
 }
 
 .secondParagraph{
-    background-color: blue;
+    color: blue;
 }
 
 .firstParagraph{
-    background-color: pink;
+    color: pink;
 }
 
 .thirdParagraph{
-    background-color: pink;
+    text-align: center;
+    color: pink;
 }
 
 .fourthParagraph{
-    background-color: pink;
+    color: pink;
+}
+
+span{
+    text-decoration: underline;
+    display: block;
 }
